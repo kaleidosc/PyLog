@@ -2,7 +2,7 @@
 Simple keylogger that uses pynput to listen to keyboard input. Outputs to a text file and the terminal. Press the escape key to stop.
 
 # Installation on Windows
-Download the .exe from the releases page and run it. No other downloads are required.
+Download the .exe from the releases page and run it. No other downloads are required. If smartscreen blocks it, this is because it's not in a list of known programs.
 
 # Installation on other operating systems
 Download and install the latest version of Python for your OS here: https://www.python.org/downloads/
