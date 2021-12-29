@@ -1,5 +1,5 @@
 # PyLog
-Simple keylogger that uses pynput to listen to keyboard input. Outputs to text file and terminal.
+Simple keylogger that uses pynput to listen to keyboard input. Outputs to a text file and the terminal. Press the escape key to stop.
 
 # Installation on Windows
 Download the .exe from the releases page and run it. No other downloads are required.
